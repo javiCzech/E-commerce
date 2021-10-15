@@ -1,0 +1,39 @@
+.feature {
+    position: relative;
+    padding: 0;
+}
+
+.feature .feature-col {
+    height: inherit;
+    border-right: 1px solid #dddddd;
+    padding: 60px 0;
+}
+
+.feature .feature-col:last-child {
+    border-right: none;
+}
+
+.feature .feature-content {
+    position: relative;
+    width: 100%;
+    padding: 0 30px;
+    text-align: center;
+}
+
+.feature .feature-content i {
+    color: #3F69AA;
+    font-size: 60px;
+    margin-bottom: 10px;
+}
+
+.feature .feature-content h2 {
+    color: #666666;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.feature .feature-content p {
+    color: #666666;
+    font-size: 15px;
+    margin: 0;
+}

@@ -1,0 +1,9 @@
+.bg-primary {
+    background-color: #3F69AA !important;
+}
+.navbar-collapse {
+    flex-grow: inherit;
+}
+#navImg {
+    height: 50px;
+}

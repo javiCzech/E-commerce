@@ -1,0 +1,67 @@
+
+.cuenta {
+    font-size: large;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.product-item .product-content .price {
+    position: relative;
+    width: 100%;
+}
+.product-item .product-content .price {
+    font-size: 30px;
+    color: #3F69AA;
+    font-weight: 700; 
+}
+.product-item .product-content .price span {
+    margin-left: 12px;
+    text-decoration: line-through;
+    font-weight: 700;
+    color: #666666;
+}
+.product-detail .product-content .details,
+.product-detail .product-content .quantity {
+    position: relative;
+    width: 100%;
+}
+.product-detail .product-content .details {
+    margin-bottom: 20px;
+}
+.product-detail .product-content .details p {
+    color: #666666;
+    font-size: 16px;
+}
+.product-detail .product-content .quantity {
+    margin-bottom: 20px;
+}
+
+.product-detail .product-content .quantity h4 p {
+    display: inline-block;
+    color: #666666;
+    font-size: 18px;
+    font-weight: 600;
+    margin-right: 5px;
+}
+
+.product-detail .product-content .quantity .qty {
+    display: inline-block;
+}
+
+.product-detail .product-content .quantity button {
+    width: 30px;
+    height: 30px;
+    padding: 2px 0;
+    text-align: center;
+    color: #ffffff;
+    background: #3F69AA;
+    border: none;
+}
+
+.product-detail .product-content .quantity input {
+    width: 60px;
+    height: 30px;
+    color: #ffffff;
+    text-align: center;
+    background: rgba(63, 105, 170, .5);
+    border: none;
+}
